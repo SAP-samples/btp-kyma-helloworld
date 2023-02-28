@@ -1,4 +1,6 @@
-# Get Started on SAP BTP Kyma Runtime creating a Hello-World Function
+# Get Started
+
+Create a Hello-World Function on SAP BTP Kyma Runtime .
 
 
 ## Description
@@ -10,12 +12,12 @@ Kyma /kee-ma/ is a cloud-native application runtime that combines the power of K
 
 In this tutorial, you will learn how to:
 
-1. Create a Subaccount in your Enterprise Accounts or enter your Trial Subaccount.
-2. Entitle your Subaccount for Kyma runtime.
-3. Enable Kyma Runtime.
-4. Access your Kyma Dashboard.
-5. Create and deploy a "Hello-World" nodejs function.
-6. Learn about extending SAP cloud solutions using Kyma.
+1. Create a Subaccount for Enterprise Accounts or enter your Trial Subaccount
+2. Entitle your Subaccount for Kyma runtime
+3. Enable Kyma Runtime
+4. Access your Kyma Dashboard
+5. Create and deploy a "Hello-World" nodejs function
+6. Learn about extending SAP cloud solutions using Kyma
 
 ### Prerequisites
 
