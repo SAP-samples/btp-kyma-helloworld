@@ -1,5 +1,7 @@
 # Get Started on SAP BTP Kyma Runtime creating a Hello-World Function
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/btp-kyma-helloworld)](https://api.reuse.software/info/github.com/SAP-samples/btp-kyma-helloworld)
+
 
 ## Description
 
