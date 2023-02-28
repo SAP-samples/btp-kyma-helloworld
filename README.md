@@ -23,7 +23,7 @@ You need either a SAP BTP Enterprise Account with unused Kyma entitlement, or a 
 
 ### Get Started
 
-For more information see the step-by-step guide on [GitHub Pages (not yet available)]() 
+For more information see the step-by-step guide on [GitHub Pages](https://sap-samples.github.io/btp-kyma-helloworld/#/) 
 or as mission in [Discovery Center (external link)](https://discovery-center.cloud.sap/missiondetail/3252/).
 
 
