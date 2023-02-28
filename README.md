@@ -21,6 +21,12 @@ In this tutorial, you will learn how to:
 
 You need either a SAP BTP Enterprise Account with unused Kyma entitlement, or a SAP BTP Trial Account.
 
+### Get Started
+
+For more information see the step-by-step guide on [GitHub Pages (not yet available)]() 
+or as mission in [Discovery Center (external link)](https://discovery-center.cloud.sap/missiondetail/3252/).
+
+
 ### Known Issues
 "No known issues.
 
