@@ -13,6 +13,10 @@
 - Create a Hello-World Function
 
   - [Create a function](pages/3_hellofunction/3_1_kyma_hwfunction.md)
+
+- Create a Hello-World Microservice
+
+  - [Create a microservice](pages/5_microservice/5_1_mircoservice.md)
   
 - Use Kubectl CLI
 
