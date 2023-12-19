@@ -1,26 +1,51 @@
-# Enable Modules
+# Enable SAP BTP Kyma Modules
 
 To use a Kyma module, you must enable it first. Use Kyma dashboard or Kyma CLI to do that. If you don't need the module anymore, disable it to save resources.
 
-Enable and Disable a Kyma Module Using Kyma Dashboard
-Use Kyma dashboard to enable and disable a Kyma module in the release channel of your choice.
-
-Context
-If there are no modules enabled on your cluster, you can easily enable one from the Cluster Details view. Select Add Module and follow the wizard steps.
+In this tutorial, you use the default release channel "regular channel". You can also choose "Fast Channel". For more information, see [Kyma Release Channels](https://help.sap.com/docs/btp/sap-business-technology-platform/kyma-s-modular-approach?locale=en-US).
 
 If you want to enable additional modules, follow this procedure:
 
-Procedure
-Log in to Kyma dashboard. The URL is in the Overview section of your subaccount.
-Go to the kyma-system Namespace.
-In the Kyma section, choose the Kyma resource.
-Select your Kyma instance (default) and choose Edit.
-In Kyma Default Channel, you can change the release channel for all your modules at the Kyma custom resource (CR) level, or keep the default one.
-Note
-By default, Kyma modules are part of the regular channel. It allows for delivering the modules at a slower, predictable rate for production environments with minimal disturbance. You can change to the fast channel for a more fluid release process that offers the latest technical updates and features at a quicker pace. For more information about the release channels, see Kyma Release Channels.
+#### Procedure
 
-In the Modules section, check the modules you want to enable.
-Optional: At the module level, you can overwrite the release channel for the current module by choosing the available channel.
-Select Update.
-Results
-This process may take a while, depending on the number of modules. The operation was successful when the module status changes to READY
+1. In your BTP Cockpit goto your subaccount, choose Services and the Instances and Subscriptions.
+
+2. In your Instances and Subscriptions home page, scroll down to your Environments, choose the line "Kyma Environment" and clikc on three dots `...`. Choose "Go to Dasboard". 
+
+3. Your Kyma Dashboard opens. You are on the "Cluster Details" home page.
+
+    Click "Modify".
+
+    ![](images/23_1_addmodule.png)
+
+4. You enter your "default" Kyma Namepace.
+
+    Click on "Edit".
+
+    ![](images/23_2_addmodule_edit.png)
+
+
+5. Add the serverless Kyma module by selecting it. You will need it, when you create a Kyma function.
+
+    Click "Update".
+
+    ![](images/23_3_addserverless.png)
+
+6. The module will be added. You can see the progress in your Cluster Details home page.
+
+    ![](images/23_4_addmodule_unknown.png)
+
+    It takes a while to complete.
+
+    
+
+7. Once done, click on the serverless module.
+
+    ![](images/23_5_addmodule_ready.png)
+
+    You will be forwarded to your default Namespace. The Workload "functions" is now available.
+
+    ![](images/23_6_addmodule_functions.png)
+
+
+Congratulations! You enabled the serverless Functions in Kyma. 
