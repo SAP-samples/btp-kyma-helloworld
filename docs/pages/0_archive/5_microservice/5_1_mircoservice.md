@@ -84,8 +84,8 @@ You cannot yet access and test your new orders-service from outside the cluster.
 8. A new API Rule has been created. Status must be **OK**.
 9. The provided link will not work, it has to be extended with the String **/orders**, because the underlying docker image, has no home page. <br>
    For example: <br>
-   URL: `https://orders-host.c-123456.kyma.ondemand.com/` has to become <br>
-   URL: `https://orders-host.c-123456.kyma.ondemand.com/orders` <br>
+   URL: https://orders-host.c-123456.kyma.ondemand.com/ has to become <br>
+   URL: https://orders-host.c-123456.kyma.ondemand.com/orders <br>
 
    ![](images/5_6_apirule_start.png)
 

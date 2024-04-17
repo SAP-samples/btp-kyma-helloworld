@@ -22,7 +22,6 @@ You cann follow this tutorial also on Kyma Docs, [Deploy and expose a Function](
 3. The "Create Function" wizard opens. Keep the preset **Simple**<br>
    Provide a name, e.g. **hello-world**. <br>
    Choose **Language** > **nodejs**. <br>
-   Choose your **Runtime Version** > e.g. **node.js 16**. <br>
    Keep the preset values. Note that a YAML file will be created under **Source**.  <br>
    You may now also the check the other presets advanced and yaml.  <br>
    Choose **Create**
