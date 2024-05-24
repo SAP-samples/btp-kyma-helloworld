@@ -1,11 +1,19 @@
 # Get Started on SAP BTP Kyma Runtime creating a Hello-World Function
 
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/btp-kyma-helloworld)](https://api.reuse.software/info/github.com/SAP-samples/btp-kyma-helloworld)
-
 
 ## Description
 
 Kyma /kee-ma/ is a cloud-native application runtime that combines the power of Kubernetes with a set of best-in-class tools and open-source components that empower you to develop, run, and operate secure and scalable cloud-native applications.
+
+## This repository contains additional file for the mission
+
+[Get Started with SAP BTP, Kyma runtime creating a Hello-World Function](https://discovery-center.cloud.sap/missiondetail/3252/3281/)
+
+Related Tutorials
+
+[Setup SAP BTP, Kyma Runtime](https://developers.sap.com/tutorials/btp-kyma-onb-01-env.html)
+[Create a "Hello-World" Kyma Function and a Microservice](https://developers.sap.com/tutorials/btp-kyma-onb-02-func.html)
+[Install the Kubernetes Command Line Tool]https://developers.sap.com/tutorials/cp-kyma-download-cli.html
 
 
 ### Steps in this Tutorial
@@ -21,13 +29,7 @@ In this tutorial, you will learn how to:
 
 ### Prerequisites
 
-You need either a SAP BTP Enterprise Account with unused Kyma entitlement, or a SAP BTP Trial Account.
-
-### Get Started
-
-For more information see the step-by-step guide on [GitHub Pages](https://sap-samples.github.io/btp-kyma-helloworld/#/) 
-or as mission in [Discovery Center (external link)](https://discovery-center.cloud.sap/missiondetail/3252/).
-
+You need either a SAP BTP Enterprise Account with Kyma entitlement, or a SAP BTP Trial Account.
 
 ### Known Issues
 "No known issues.
