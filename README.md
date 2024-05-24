@@ -32,7 +32,7 @@ In this tutorial, you will learn how to:
 You need either a SAP BTP Enterprise Account with Kyma entitlement, or a SAP BTP Trial Account.
 
 ### Known Issues
-"No known issues.
+No known issues.
 
 ### How to obtain support
 [Create an issue](https://github.com/SAP-samples/btp-kyma-helloworld/issues) in this repository if you find a bug.
