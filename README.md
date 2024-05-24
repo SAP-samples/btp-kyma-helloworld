@@ -11,9 +11,9 @@ Kyma /kee-ma/ is a cloud-native application runtime that combines the power of K
 
 Related Tutorials
 
-[Setup SAP BTP, Kyma Runtime](https://developers.sap.com/tutorials/btp-kyma-onb-01-env.html)
-[Create a "Hello-World" Kyma Function and a Microservice](https://developers.sap.com/tutorials/btp-kyma-onb-02-func.html)
-[Install the Kubernetes Command Line Tool]https://developers.sap.com/tutorials/cp-kyma-download-cli.html
+- [Setup SAP BTP, Kyma Runtime](https://developers.sap.com/tutorials/btp-kyma-onb-01-env.html)
+- [Create a "Hello-World" Kyma Function and a Microservice](https://developers.sap.com/tutorials/btp-kyma-onb-02-func.html)
+- [Install the Kubernetes Command Line Tool](https://developers.sap.com/tutorials/cp-kyma-download-cli.html)
 
 
 ### Steps in this Tutorial
